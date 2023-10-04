@@ -1,5 +1,7 @@
 # Crypto Analysis Dashboard
 
+https://cryptotrends.streamlit.app/
+
 ## Overview
 The Crypto Analysis Dashboard is a web-based application that allows users to analyze historical price data and perform various analyses on different cryptocurrencies (altcoins). This dashboard is designed to help users make informed decisions by providing insights into price trends, statistical metrics, price predictions, and more. Whether you're a seasoned trader or a novice looking to explore the cryptocurrency market, this dashboard provides a comprehensive suite of features to aid your decision-making process.
 
